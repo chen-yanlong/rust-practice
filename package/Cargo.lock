@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "enums"
+version = "0.1.0"
+
+[[package]]
 name = "functions"
 version = "0.1.0"
 
@@ -28,6 +32,14 @@ version = "0.1.0"
 
 [[package]]
 name = "p14-error-handle"
+version = "0.1.0"
+
+[[package]]
+name = "p16-traits"
+version = "0.1.0"
+
+[[package]]
+name = "p17-lifetimes"
 version = "0.1.0"
 
 [[package]]
