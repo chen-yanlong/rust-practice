@@ -1,0 +1,9 @@
+workspace = { members = ["src/p00-hello-world", "src/p01-variables", "src/p02-types", "src/p03-input","src/p04-type-casting", "src/p05-control-flows", "src/p06-functions","src/p07-0-ownership", "src/p07-1-string-slice", "src/p08-structs", "src/p09-structs_method", "src/p10-enum", "src/p11-match", "src/p12-module", "src/p13-collections/*", "src/p14-error-handle","src/p15-generics/*" ] }
+[package]
+name = "package"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
