@@ -45,7 +45,7 @@ pub fn notify<T: Summary>(item1: &T, item2: &T) {
 //     where T: Summary + Debug
 // {
 // }
-
+    
 
 
 fn main() {
